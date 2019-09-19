@@ -1,0 +1,71 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Herramienta para copia eficaz de archivos         
+-------------------------------------------------------------------------------
+
+  Inicio: mi‚rcoles, 18 de septiembre de 201911:40:24 a. m.
+   Origen : C:\Users\NEWSHORE\source\repos\Umbraco-Prueba\Umbraco-Prueba\Config\
+     Destino : C:\Users\NEWSHORE\source\repos\Umbraco-Prueba\Umbraco-Prueba\App_Data\NuGetBackup\20190918-114024\Config\
+
+    Archivos: *.*
+	    
+  Opciones: *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                  18	C:\Users\NEWSHORE\source\repos\Umbraco-Prueba\Umbraco-Prueba\Config\
+	    Nuevo arch		     301	404handlers.config  0%  100%  
+	    Nuevo arch		     681	applications.config  0%  100%  
+	    Nuevo arch		     732	BaseRestExtensions.config  0%  100%  
+	    Nuevo arch		    3981	ClientDependency.config  0%  100%  
+	    Nuevo arch		    3456	Dashboard.config  0%  100%  
+	    Nuevo arch		    7092	EmbeddedMedia.config  0%  100%  
+	    Nuevo arch		    1269	ExamineIndex.config  0%  100%  
+	    Nuevo arch		    1819	ExamineSettings.config  0%  100%  
+	    Nuevo arch		     429	feedProxy.config  0%  100%  
+	    Nuevo arch		     286	FileSystemProviders.config  0%  100%  
+	    Nuevo arch		    1023	grid.editors.config.js  0%  100%  
+	    Nuevo arch		    1113	log4net.config  0%  100%  
+	    Nuevo arch		     529	metablogConfig.config  0%  100%  
+	    Nuevo arch		     837	scripting.config  0%  100%  
+	    Nuevo arch		   12356	tinyMceConfig.config  0%  100%  
+	    Nuevo arch		    6672	trees.config  0%  100%  
+	    Nuevo arch		   16612	umbracoSettings.config  0%  100%  
+	    Nuevo arch		     502	UrlRewriting.config  0%  100%  
+	   Nuevo dir       3	C:\Users\NEWSHORE\source\repos\Umbraco-Prueba\Umbraco-Prueba\Config\imageprocessor\
+	    Nuevo arch		     378	cache.config  0%  100%  
+	    Nuevo arch		    3934	processing.config  0%  100%  
+	    Nuevo arch		    1064	security.config  0%  100%  
+	   Nuevo dir      18	C:\Users\NEWSHORE\source\repos\Umbraco-Prueba\Umbraco-Prueba\Config\Lang\
+	    Nuevo arch		      81	cs-CZ.user.xml  0%  100%  
+	    Nuevo arch		      79	da-DK.user.xml  0%  100%  
+	    Nuevo arch		      79	de-DE.user.xml  0%  100%  
+	    Nuevo arch		      79	en-GB.user.xml  0%  100%  
+	    Nuevo arch		      79	en-US.user.xml  0%  100%  
+	    Nuevo arch		      79	es-ES.user.xml  0%  100%  
+	    Nuevo arch		      79	fr-FR.user.xml  0%  100%  
+	    Nuevo arch		      82	he-IL.user.xml  0%  100%  
+	    Nuevo arch		      82	it-IT.user.xml  0%  100%  
+	    Nuevo arch		      79	ja-JP.user.xml  0%  100%  
+	    Nuevo arch		      82	ko-KR.user.xml  0%  100%  
+	    Nuevo arch		      82	nb-NO.user.xml  0%  100%  
+	    Nuevo arch		      79	nl-NL.user.xml  0%  100%  
+	    Nuevo arch		      82	pl-PL.user.xml  0%  100%  
+	    Nuevo arch		      82	pt-BR.user.xml  0%  100%  
+	    Nuevo arch		      79	ru-RU.user.xml  0%  100%  
+	    Nuevo arch		      82	sv-SE.user.xml  0%  100%  
+	    Nuevo arch		      78	zh-CN.user.xml  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total   Copiado   OmitidoNo coincidencia     ERROR    Extras
+Director.:         3         2         1         0         0         0
+ Archivos:        39        39         0         0         0         0
+    Bytes:    64.9 k    64.9 k         0         0         0         0
+   Tiempo:   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+Velocidad:              978088 Bytes/s
+Velocidad:              55.966 Megabytes/min
+   Finalizado: mi‚rcoles, 18 de septiembre de 2019 11:40:24 a. m.
+

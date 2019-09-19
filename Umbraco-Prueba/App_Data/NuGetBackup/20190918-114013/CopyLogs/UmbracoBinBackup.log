@@ -1,0 +1,91 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Herramienta para copia eficaz de archivos         
+-------------------------------------------------------------------------------
+
+  Inicio: mi‚rcoles, 18 de septiembre de 201911:40:13 a. m.
+   Origen : C:\Users\NEWSHORE\source\repos\Umbraco-Prueba\Umbraco-Prueba\bin\
+     Destino : C:\Users\NEWSHORE\source\repos\Umbraco-Prueba\Umbraco-Prueba\App_Data\NuGetBackup\20190918-114013\bin\
+
+    Archivos: *.*
+	    
+  Opciones: *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                  61	C:\Users\NEWSHORE\source\repos\Umbraco-Prueba\Umbraco-Prueba\bin\
+	    Nuevo arch		  166400	AutoMapper.dll  0%   78%  100%  
+	    Nuevo arch		   28672	AutoMapper.Net4.dll  0%  100%  
+	    Nuevo arch		  118784	businesslogic.dll  0%  100%  
+	    Nuevo arch		  150016	ClientDependency.Core.dll  0%   87%  100%  
+	    Nuevo arch		   23552	ClientDependency.Core.Mvc.dll  0%  100%  
+	    Nuevo arch		  524288	cms.dll  0%   25%   50%   75%  100%  
+	    Nuevo arch		   52224	controls.dll  0%  100%  
+	    Nuevo arch		  122880	CookComputing.XmlRpcV2.dll  0%  100%  
+	    Nuevo arch		  116224	Examine.dll  0%  100%  
+	    Nuevo arch		  134656	HtmlAgilityPack.dll  0%   97%  100%  
+	    Nuevo arch		  200704	ICSharpCode.SharpZipLib.dll  0%   65%  100%  
+	    Nuevo arch		  180224	ImageProcessor.dll  0%   72%  100%  
+	    Nuevo arch		  120320	ImageProcessor.Web.dll  0%  100%  
+	    Nuevo arch		   24576	interfaces.dll  0%  100%  
+	    Nuevo arch		  258048	log4net.dll  0%   50%  100%  
+	    Nuevo arch		  786432	Lucene.Net.dll  0%   33%   66%  100%  
+	    Nuevo arch		   49152	MarkdownSharp.dll  0%  100%  
+	    Nuevo arch		   11264	Microsoft.ApplicationBlocks.Data.dll  0%  100%  
+	    Nuevo arch		  171672	Microsoft.AspNet.Identity.Core.dll  0%   76%  100%  
+	    Nuevo arch		   54944	Microsoft.AspNet.Identity.Owin.dll  0%  100%  
+	    Nuevo arch		   3.8 m	Microsoft.CodeAnalysis.CSharp.dll  0%   13%   26%   39%   52%   65%   78%   91%  100%  
+	    Nuevo arch		   1.6 m	Microsoft.CodeAnalysis.dll  0%   15%   30%   45%   60%   76%   91%  100%  
+	    Nuevo arch		   40080	Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll  0%  100%  
+	    Nuevo arch		    1805	Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml  0%  100%  
+	    Nuevo arch		   41232	Microsoft.IO.RecyclableMemoryStream.dll  0%  100%  
+	    Nuevo arch		  101032	Microsoft.Owin.dll  0%  100%  
+	    Nuevo arch		  133288	Microsoft.Owin.Host.SystemWeb.dll  0%   98%  100%  
+	    Nuevo arch		   36520	Microsoft.Owin.Security.Cookies.dll  0%  100%  
+	    Nuevo arch		   53416	Microsoft.Owin.Security.dll  0%  100%  
+	    Nuevo arch		   77488	Microsoft.Owin.Security.OAuth.dll  0%  100%  
+	    Nuevo arch		   45416	Microsoft.Web.Infrastructure.dll  0%  100%  
+	    Nuevo arch		  396288	MiniProfiler.dll  0%   33%   66%   99%  100%  
+	    Nuevo arch		  431616	MySql.Data.dll  0%   30%   60%   91%  100%  
+	    Nuevo arch		  513536	Newtonsoft.Json.dll  0%   25%   51%   76%  100%  
+	    Nuevo arch		    4608	Owin.dll  0%  100%  
+	    Nuevo arch		   10240	Semver.dll  0%  100%  
+	    Nuevo arch		   19968	SQLCE4Umbraco.dll  0%  100%  
+	    Nuevo arch		  204544	System.Collections.Immutable.dll  0%   64%  100%  
+	    Nuevo arch		  470696	System.Data.SqlServerCe.dll  0%   27%   55%   83%  100%  
+	    Nuevo arch		  240808	System.Data.SqlServerCe.Entity.dll  0%   54%  100%  
+	    Nuevo arch		  185544	System.Net.Http.Formatting.dll  0%   70%  100%  
+	    Nuevo arch		  262896	System.Reflection.Metadata.dll  0%   49%   99%  100%  
+	    Nuevo arch		  139976	System.Web.Helpers.dll  0%   93%  100%  
+	    Nuevo arch		  471240	System.Web.Http.dll  0%   27%   55%   83%  100%  
+	    Nuevo arch		   82120	System.Web.Http.WebHost.dll  0%  100%  
+	    Nuevo arch		  566472	System.Web.Mvc.dll  0%   46%   92%  100%  
+	    Nuevo arch		  272072	System.Web.Razor.dll  0%   48%   96%  100%  
+	    Nuevo arch		   41672	System.Web.WebPages.Deployment.dll  0%  100%  
+	    Nuevo arch		  211656	System.Web.WebPages.dll  0%   61%  100%  
+	    Nuevo arch		   39624	System.Web.WebPages.Razor.dll  0%  100%  
+	    Nuevo arch		  192512	TidyNet.dll  0%   68%  100%  
+	    Nuevo arch		   2.4 m	Umbraco.Core.dll  0%   20%   41%   61%   82%  100%  
+	    Nuevo arch		   38912	umbraco.DataLayer.dll  0%  100%  
+	    Nuevo arch		   2.1 m	umbraco.dll  0%   23%   46%   69%   92%  100%  
+	    Nuevo arch		  372736	umbraco.editorControls.dll  0%   35%   70%  100%  
+	    Nuevo arch		  131584	umbraco.MacroEngines.dll  0%   99%  100%  
+	    Nuevo arch		  102400	Umbraco.ModelsBuilder.dll  0%  100%  
+	    Nuevo arch		   38400	umbraco.providers.dll  0%  100%  
+	    Nuevo arch		   57344	Umbraco.Web.UI.dll  0%  100%  
+	    Nuevo arch		   64512	UmbracoExamine.dll  0%  100%  
+	    Nuevo arch		   22528	UrlRewritingNet.UrlRewriter.dll  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total   Copiado   OmitidoNo coincidencia     ERROR    Extras
+Director.:         1         0         1         0         0         0
+ Archivos:        61        61         0         0         0         0
+    Bytes:   19.03 m   19.03 m         0         0         0         0
+   Tiempo:   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+Velocidad:           130480241 Bytes/s
+Velocidad:            7466.139 Megabytes/min
+   Finalizado: mi‚rcoles, 18 de septiembre de 2019 11:40:13 a. m.
+
